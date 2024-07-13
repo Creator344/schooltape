@@ -49,10 +49,15 @@ export const SNIPPET_INFO: Record<string, SnippetInfo> = {
     description: "Hide your profile picture across Schoolbox.",
     order: 0,
   },
+  roundedCorners: {
+    name: "Rounded Corners",
+    description: "Rounds corners across Schoolbox.",
+    order: 1,
+  },
   censor: {
     name: "Censor",
     description: "Censors all text and images. This is intended for development purposes.",
-    order: 1,
+    order: 2,
   },
 };
 

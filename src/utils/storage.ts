@@ -23,6 +23,9 @@ export const snippetSettings = storage.defineItem<Types.SnippetSettings>("local:
       hidePfp: {
         toggle: true,
       },
+      roundedCorners: {
+        toggle: true,
+      },
       censor: {
         toggle: false,
       },
