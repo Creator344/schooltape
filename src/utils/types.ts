@@ -1,10 +1,6 @@
 // Global
 export type GlobalSettings = {
   global: boolean;
-  updates: {
-    available: boolean;
-    desktop: boolean;
-  };
   urls: string[];
   needsRefresh: boolean;
 };
@@ -41,6 +37,7 @@ export type LogoDetails = {
   url: string;
   id: string;
   disable?: boolean; // whether the icon should be injected or not
+  adaptive?: boolean; // whether the icon should follow the accent colour
 };
 type Theme = "catppuccin";
 export type ThemeSettings = {

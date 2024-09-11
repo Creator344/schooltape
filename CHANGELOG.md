@@ -1,5 +1,99 @@
 # Changelog
 
+## [3.2.1](https://github.com/schooltape/schooltape/compare/v3.2.0...v3.2.1) (2024-09-11)
+
+
+### Bug Fixes
+
+* **periodUtils:** typo ([cb811ee](https://github.com/schooltape/schooltape/commit/cb811ee062fcfc663353ce2428d3efdce591ee39))
+
+## [3.2.0](https://github.com/schooltape/schooltape/compare/v3.1.8...v3.2.0) (2024-09-11)
+
+
+### Features
+
+* adaptive accent colors ([c544fc2](https://github.com/schooltape/schooltape/commit/c544fc2806d5a6e25ed4542affebea84b2e846b3))
+* dynamic icons ([3bda1cb](https://github.com/schooltape/schooltape/commit/3bda1cb13f101d71bc9dd1d8e3efb6a9edcd7cdf))
+
+
+### Bug Fixes
+
+* **modernIcons:** add missing icons ([e9f82df](https://github.com/schooltape/schooltape/commit/e9f82df28b788889b0378d48a6f96dc97ef725cc))
+* **subheader:** current period time [#105](https://github.com/schooltape/schooltape/issues/105) ([d65e7e2](https://github.com/schooltape/schooltape/commit/d65e7e23ecb698d8aa768d4567fb41fc569e9da8))
+
+## [3.1.8](https://github.com/schooltape/schooltape/compare/v3.1.7...v3.1.8) (2024-09-08)
+
+
+### Bug Fixes
+
+* **modern-icons:** add files icon ([7fe0a49](https://github.com/schooltape/schooltape/commit/7fe0a4994a5848432c00f52ce9e19adb55e63d8b))
+
+## [3.1.7](https://github.com/schooltape/schooltape/compare/v3.1.6...v3.1.7) (2024-09-05)
+
+
+### Bug Fixes
+
+* version link in popup broken [#99](https://github.com/schooltape/schooltape/issues/99) ([174b2af](https://github.com/schooltape/schooltape/commit/174b2afc9c42d5ec8fcfeefd76f5b150a9e29a95))
+
+## [3.1.6](https://github.com/schooltape/schooltape/compare/v3.1.5...v3.1.6) (2024-07-31)
+
+
+### Bug Fixes
+
+* period stacking [#88](https://github.com/schooltape/schooltape/issues/88) ([7126d25](https://github.com/schooltape/schooltape/commit/7126d25cf457d94143ebcf4efcc248b3b9da96c3))
+
+## [3.1.5](https://github.com/schooltape/schooltape/compare/v3.1.4...v3.1.5) (2024-07-31)
+
+
+### Miscellaneous Chores
+
+* release 3.1.5 ([7e0440c](https://github.com/schooltape/schooltape/commit/7e0440c587d5a34fe6dd1e5d434f994b2a432aca))
+
+## [3.1.4](https://github.com/schooltape/schooltape/compare/v3.1.3...v3.1.4) (2024-07-31)
+
+
+### Bug Fixes
+
+* schooltape not injecting into footer ([0aeb97e](https://github.com/schooltape/schooltape/commit/0aeb97ef58d53f49d8d464e94b79376106290981))
+
+## [3.1.3](https://github.com/schooltape/schooltape/compare/v3.1.2...v3.1.3) (2024-07-31)
+
+
+### Bug Fixes
+
+* timetableLabels not injecting ([c6bdac8](https://github.com/schooltape/schooltape/commit/c6bdac8eeed187bc349dee0f5d11375283117005))
+
+## [3.1.2](https://github.com/schooltape/schooltape/compare/v3.1.1...v3.1.2) (2024-07-13)
+
+
+### Miscellaneous Chores
+
+* release 3.1.2 ([8f7d4d4](https://github.com/schooltape/schooltape/commit/8f7d4d4d4cd985edae80613d77574563b477bef8))
+
+## [3.1.1](https://github.com/schooltape/schooltape/compare/v3.1.0...v3.1.1) (2024-07-13)
+
+
+### Reverts
+
+* don't skip on manual dispatch ([94f9960](https://github.com/schooltape/schooltape/commit/94f9960f82293a39f1d700c8a7f685f6b721a957))
+
+
+### Miscellaneous Chores
+
+* release 3.1.1 ([ff6cc55](https://github.com/schooltape/schooltape/commit/ff6cc5565aefe7eb57db8ae892e4dd14dc0c1ae9))
+
+## [3.1.0](https://github.com/schooltape/schooltape/compare/v3.0.0...v3.1.0) (2024-07-13)
+
+
+### Features
+
+* remove update notifications ([536eae3](https://github.com/schooltape/schooltape/commit/536eae3ac21ac1af64884f8daf357bda19494532))
+
+
+### Bug Fixes
+
+* **popup:** version name undefined ([7685e99](https://github.com/schooltape/schooltape/commit/7685e99e953dbcbe3cfb0ba2bb48b5cd560e6cc4))
+
 ## [3.0.0](https://github.com/schooltape/schooltape/compare/v2.3.1...v3.0.0) (2024-06-27)
 
 

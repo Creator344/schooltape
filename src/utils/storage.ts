@@ -5,10 +5,6 @@ export const globalSettings = storage.defineItem<Types.GlobalSettings>("local:gl
   version: 1,
   defaultValue: {
     global: true,
-    updates: {
-      available: true,
-      desktop: false,
-    },
     urls: ["https://help.schoolbox.com.au"],
     needsRefresh: false,
   },
@@ -77,8 +73,8 @@ export const themeSettings = storage.defineItem<Types.ThemeSettings>("local:them
   defaultValue: {
     toggle: true,
     theme: "catppuccin",
-    flavour: "macchiato",
-    accent: "rosewater",
+    flavour: "mocha",
+    accent: "mauve",
     logo: {
       name: "ST Rainbow",
       id: "st-rainbow",
